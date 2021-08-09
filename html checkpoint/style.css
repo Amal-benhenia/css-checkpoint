@@ -1,0 +1,50 @@
+
+    .first {
+        font-family:roboto;
+        text-align: center;
+        }
+    .image-container {
+        width: 1500px;
+        height: 450; 
+        text-align:center;
+        border-radius: 50px/25px;
+        
+    }
+    p{
+    color:darkslategrey;
+    
+    text-align:center;
+    font-size:20px;
+}
+.third {
+    text-align:center;
+
+}
+h2{
+ color:midnightblue;
+ 
+ font-size:30px   
+}
+h4{
+    color:midnightblue;
+    font-size:20px;
+   
+}
+
+li{
+
+    display:inline-block;
+    padding: 20px 8%;
+
+    
+
+
+}
+a{
+    color:cornflowerblue
+}
+
+
+img{ 
+    border-radius: 5%;
+}
